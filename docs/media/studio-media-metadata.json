@@ -1,0 +1,12 @@
+{
+  "renderer": "Panda3D 1.10.16 / native OpenGL",
+  "recording_frames": 1364,
+  "simulation_duration_seconds": 204.45,
+  "video_frames": 264,
+  "fps": 16,
+  "video_duration_seconds": 16.5,
+  "final_hold_seconds": 1.5,
+  "language": "English",
+  "mp4_decode_passed": true,
+  "source_sha256": "a79a637fe2cba3f02997b30876c1f78be8cffd79fed286814e1689ce6b629c8b"
+}

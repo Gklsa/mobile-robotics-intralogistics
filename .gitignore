@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.runtime/
+.env
+outputs/
+*.log
+*.pid
+.DS_Store
+Thumbs.db
+
+# Local study notes and reference image
+/docs/learning-guide.md
+/docs/project-experience.md
+/docs/scope.md
+/docs/robot-cover.png

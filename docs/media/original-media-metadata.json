@@ -1,0 +1,47 @@
+{
+  "source": "docs/data/original-challenge.json",
+  "layout": "config/original_map.json",
+  "course_practice_completed": "2025-09",
+  "reconstruction": "2026-10",
+  "language": "English",
+  "actual_simulation_seconds": 204.45,
+  "simulation_frames": 1364,
+  "exported_gif_frames": 120,
+  "gif_duration_ms": 11320,
+  "final_hold_ms": 1800,
+  "mp4_fps": 12,
+  "mp4_frames": 142,
+  "mp4_duration_seconds": 11.833333333333334,
+  "final_task": 8,
+  "final_state": "All eight original Challenge tasks complete",
+  "mp4_decode_passed": true,
+  "native_ui_checks": {
+    "persistent_canvas_item_across_all_tasks": true,
+    "persistent_photoimage_across_all_tasks": true,
+    "shortest_yaw_interpolation": true,
+    "static_board_cache": true,
+    "cached_render_avg_ms_960x650": 1.86,
+    "draw_timer_hz": 30,
+    "play_seek_reset_tested": true,
+    "paused_frame_redraw": false,
+    "english_ui_states_events": true
+  },
+  "outputs": {
+    "original-challenge-reconstruction.gif": {
+      "bytes": 486891,
+      "sha256": "42ac74e018fd64becd37a13022cd6ec8c56348f77bfcb28d1fb8c64f9d55908b"
+    },
+    "original-challenge-reconstruction.mp4": {
+      "bytes": 272341,
+      "sha256": "a0d3c957801969fb0329e7eea47bc9607c600182ac2b6e9e58c9a7a79bf435b7"
+    },
+    "original-challenge-overview.png": {
+      "bytes": 88935,
+      "sha256": "0b0bbbe92c6dc73591288c4167d3c26d2bba0b96c7a9fee73b3b63e8ef8dee0c"
+    },
+    "original-challenge-topdown.png": {
+      "bytes": 75639,
+      "sha256": "918752f3b10f05da78d1ed0f651065b47d81d8a45c8800ec56e0c712917cb442"
+    }
+  }
+}
